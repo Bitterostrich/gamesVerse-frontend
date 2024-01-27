@@ -1,3 +1,4 @@
+'use client'
 import React, { useState, useEffect } from "react";
 import GameCard from "../Components/GameCard";
 import Add from "../Components/AddGame";
