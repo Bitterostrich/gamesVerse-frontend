@@ -1,5 +1,5 @@
 import axios from "axios";
-const url = "https://gamesverse-backend.onrender.com";
+const url = "https://gamesverse-backend.onrender.com/";
 
 
 export class ApiClient {
